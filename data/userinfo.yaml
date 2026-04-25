@@ -1,0 +1,7 @@
+-
+  user:
+    type: username
+    accounts: eric_test
+    pwd: 123456
+  msg: 登录成功
+
