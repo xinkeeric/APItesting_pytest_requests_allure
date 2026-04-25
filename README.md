@@ -22,9 +22,7 @@ pytest+requests+allure 接口自动化测试框架
     ├── params
     │   ├── __init__.py
     │   └── allParams.py #配置
-    ├── PROJECT_STRUCTURE.md
     ├── conftest.py 
     ├── main.py #主程序入口
-    ├── make_file_tree.py
     └── requirements.txt #依赖
 ```
